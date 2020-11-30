@@ -2,8 +2,12 @@
 A study on how Bitcoin is perceived by no-coiners (non-holders of Bitcoin).
 
 #Context
-- How no-coiners perceive Bitcoin is a key determining factor to Bitcoin's adoption. Understanding how they perceive (and misperceive) it can be invaluable to address blockers to adoption and drive more usage. 
-- Listening to no-coiners is a first step to understanding their beliefs and motivations to not buying bitcoin.
+- Beliefs drive behaviour more than the other way around. So, if we are trying to understand those who know about but have not purchased Bitcoin, we want to try to understand their beliefs surrounding Bitcoin and their perception of it. 
+
+#Motivation
+- Much work has been done in studying the beliefs of Bitcoiners (Morucci 2020, https://medium.com/@metamick14/balinese-cockfights-bitcoins-how-one-can-help-us-understand-the-other-c075027ffeb6), and much more needs to be done to understand how non-Bitcoiners perceive and misperceive Bitcoin
+- Understanding the different ways no-coiners perceive Bitcoin can help us better understand non-action to buying Bitcoin - i.e. what makes them not want to buy bitcoin.
+- No-coiner perceptions of Bitcoin can elicit quality insights into the blockers to Bitcoin adoption. These understandings can help to service potential client better. In fact, understanding no-coiners' perception is the first step to relating with them, and then sets the strategy to informing and educating them.
 
 #Aims & objectives
 - This research aims to gain a better picture of the beliefs of no-coiners about Bitcoin. Understanding these beliefs can help point to their behaviours, their non-action when buying Bitcoin. The objective is to gain a comprehensive list of these beliefs surrounding Bitcoin.
@@ -19,3 +23,4 @@ A study on how Bitcoin is perceived by no-coiners (non-holders of Bitcoin).
 - Online survey results may not always elicit high quality responses from the responders, so we will ensure only the essential questions are asked. 
 - Online surveys may also elicit superficial responses, and more in-depth qualitative research may be require to do further probing in some areas.
 - No-coiners may simply not be interested in Bitcoin and their responses may not reveal a great degree of thought because they may never have put much thought into this topic. This needs to be considered. In fact, the results will be revealing of a lot of 'misperceptions' and 'misunderstandings' concerning Bitcoin.
+- Beliefs will vary according to various factors, such as demography, geography and time. This study is a first phase attempt to getting a generic view of the current beliefs that exist in this topic and no disection of these insights will be generated.
